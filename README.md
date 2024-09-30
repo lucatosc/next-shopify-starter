@@ -1,13 +1,5 @@
 # Next.js + Tailwind CSS + Shopify Starter
 
-<div align="center">
-<img src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/demo-store.gif">
-<p align="center">
-  <a href="https://doggystickers.vercel.app/">Live Demo</a> •
-  <a href="https://nextails.com/">See more starters</a> •
-  <a href="https://twitter.com/deepwhitman">Follow me on Twitter</a>
-</p>
-</div>
 
 This is a fully functional eCommerce store that uses Next.js + Tailwind CSS in the front end and leverages the Shopify Storefront API to interact with your Shopify backend. You can see a Live Demo [here](https://doggystickers.vercel.app/ "Shopify store").
 
@@ -24,10 +16,6 @@ purchase the items. You can see this play out in the example store. Yes - the st
     <tr>
   </thead>
   <tbody>
-  <tr>
-    <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/desktop-lighthouse.png"/></td>
-    <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/mobile-lighthouse.png"/></td>
-  </tr>
   </tbody>
 </table>
 
@@ -41,10 +29,6 @@ purchase the items. You can see this play out in the example store. Yes - the st
     <tr>
   </thead>
   <tbody>
-  <tr>
-    <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/responsive-main.gif"/></td>
-    <td valign="top"><img width="300" height="300" src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/responsive-cart.gif"/></td>
-  </tr>
   </tbody>
 </table>
 
@@ -70,7 +54,7 @@ The graphQL queries are all hardcoded to pull the maximum number of products/var
 is set to 250 by Shopify. I did this to keep things simple. Pagination would have made the queries complicated
 and 250 items is enough for most use cases.
 
-If you require pagination you will have to keep track of the [cursor](https://youtu.be/S37WsC8GzSA "graphql pagination") field and keep querying the data until you fetch all items.
+If you require pagination you will have to keep track of the [cursor]("graphql pagination") field and keep querying the data until you fetch all items.
 
 ### Setup Environment variables
 
@@ -149,6 +133,6 @@ as the Gatsby Swag Store did for me when I first started out.
 
 ### Buy Me Coffee! :coffee:
 
-If you did find this useful and want to show your appreciation you can buy me a [coffee](https://www.buymeacoffee.com/neum "coffee") :smiley:
+If you did find this useful and want to show your appreciation you can buy me a [coffee]("coffee") :smiley:
 
 You can also buy some Doggy Stickers from the [store](https://doggystickers.vercel.app/ "store")! :dog:
