@@ -136,3 +136,4 @@ as the Gatsby Swag Store did for me when I first started out.
 If you did find this useful and want to show your appreciation you can buy me a [coffee]("coffee") :smiley:
 
 You can also buy some Doggy Stickers from the [store](https://doggystickers.vercel.app/ "store")! :dog:
+      
